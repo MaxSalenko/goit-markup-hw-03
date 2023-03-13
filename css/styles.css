@@ -403,7 +403,6 @@ gap: 24px;
 .main-section-images-team{
 padding-top: 120px;
 padding-bottom: 120px;
-Width:1440px;
 background-color:#F4F4FD ;
 
 }
@@ -452,19 +451,19 @@ border: 1px solid #E7E9FC;
 }
 
 .list-images{
-padding-top: 73px;
+margin-top: 73px;
 display: flex;
 flex-wrap: wrap;
 }
 
-.section-title-portfolio{
+/*.section-title-portfolio{
 padding-top: 32px;
 padding-left: 16px;
-}
+}*/
 
 
 .text-portfolio{
-padding-top: 8px;
+margin-top: 8px;
 padding-bottom:32px ;
 padding-left: 16px;
 }
@@ -475,6 +474,8 @@ padding-left: 16px;
     border-right: 1px solid var(--cornflower);
     border-bottom: 1px solid var(--cornflower);
     border-left: 1px solid var(--cornflower);
+    padding-top: 32px;
+    padding-left: 16px;
 }
 
 .list-images-item{
