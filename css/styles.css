@@ -470,6 +470,7 @@ margin-top: 8px;
     border-left: 1px solid var(--cornflower);
     padding-top: 32px;
     padding-left: 16px;
+    padding-bottom: 32px;
 }
 
 .list-images-item{
